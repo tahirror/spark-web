@@ -8,7 +8,8 @@ def splitComma(line: str):
     return "{}, {}".format(splits[1], splits[6])
 
 if __name__ == "__main__":
-    conf = SparkConf().setAppName("airports").setMaster("local[*]")
+    conf = SparkConf().setAppName("airports").setMaster("local[1]")
+
     sc = SparkContext(conf = conf)
     
     airports = sc.textFile("in/airports.text")
