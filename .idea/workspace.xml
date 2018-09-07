@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c0f2255-2932-445e-be8e-8d17eb0b8c9b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rdd/airports/AirportsInUsaSolution.py" afterPath="$PROJECT_DIR$/rdd/airports/AirportsInUsaSolution.py" />
     </list>
     <ignored path="python-spark-tutorial.iws" />
@@ -46,8 +45,8 @@
       <file leaf-file-name="AirportsInUsaSolution.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rdd/airports/AirportsInUsaSolution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -375,12 +374,12 @@
       <updated>1534968212111</updated>
       <workItem from="1534968213278" duration="6776000" />
       <workItem from="1536023508992" duration="548000" />
-      <workItem from="1536165158366" duration="819000" />
+      <workItem from="1536165158366" duration="1025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8143000" />
+    <option name="totallyTimeSpent" value="8349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="100" width="1400" height="765" extended-state="0" />
@@ -495,8 +494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rdd/airports/AirportsInUsaSolution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
